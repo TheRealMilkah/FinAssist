@@ -1,5 +1,5 @@
-> ### 👩‍💻 My Contribution - Frontend Developer (React / Vite)
-> I built the React frontend for this project — 6 pages: Support Center AI Chat, Payment Lookup, Payment Reversed Check, Report Issue, Customer Verification, Dispute Intake.
+> ### My Contribution - Frontend Developer (React / Vite)
+> I built the React frontend for this project 6 pages: Support Center AI Chat, Payment Lookup, Payment Reversed Check, Report Issue, Customer Verification, Dispute Intake.
 > - Implemented `verifyCustomerOwnsTransaction()` and wired all pages to FastAPI backend `GET /api/v1/...` & `POST /api/v1/...`
 > - Adapted UI to real backend contract — documented in `frontend/README.md` as "Milkah's UI update"
 > - Stack: React + Vite, env `VITE_API_BASE_URL`, CORS handling
